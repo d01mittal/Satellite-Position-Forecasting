@@ -9,6 +9,15 @@ This project is an experiment on predicting and forecasting the position of a sa
 
 The LSTM model is trained on the data recorded over 18days and forecasts the trajectory for the next seven days.
 
+## The trajectory of the Satellite
+
+https://github.com/d01mittal/Satellite-Position-Forecasting/assets/144702542/f67fd1e5-62f0-40e1-91dc-3ac41b252688
+
+## The forecasted trajectory
+
+https://github.com/d01mittal/Satellite-Position-Forecasting/assets/144702542/0266d9cb-039f-4d9e-ab77-6ff365e1c257
+
+
 ## Libraries Used:
 Tensorflow 2.x
 
