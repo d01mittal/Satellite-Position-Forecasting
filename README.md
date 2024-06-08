@@ -11,13 +11,19 @@ The LSTM model is trained on the data recorded over 18days and forecasts the tra
 
 ## Libraries Used:
 Tensorflow 2.x
+
 Keras
+
 Scikit Learn
-Python >= 3.7
+
 Numpy
+
 Statsmodels
+
 Matplotlib
+
 Pandas
+
 Pmdarima
 
 ## Data:
